@@ -1,0 +1,28 @@
+﻿生成启动时间为 2016/11/4 9:14:51。
+     1>项目“F:\东大\opencv3.0\fisheye_calibrate_img\fisheye_calibrate_img\fisheye_calibrate_img.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt fisheye_calibrate_img.cpp
+         fisheye_calibrate_img.cpp
+     1>e:\program files\opencv3.0\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\program files\opencv3.0\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\program files\opencv3.0\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\东大\opencv3.0\fisheye_calibrate_img\fisheye_calibrate_img\fisheye_calibrate_img.cpp(52): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\东大\opencv3.0\fisheye_calibrate_img\fisheye_calibrate_img\fisheye_calibrate_img.cpp(93): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>f:\东大\opencv3.0\fisheye_calibrate_img\fisheye_calibrate_img\fisheye_calibrate_img.cpp(94): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>f:\东大\opencv3.0\fisheye_calibrate_img\fisheye_calibrate_img\fisheye_calibrate_img.cpp(143): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 f:\东大\opencv3.0\fisheye_calibrate_img\fisheye_calibrate_img\fisheye_calibrate_img.cpp(137) : 忽略“i”的定义
+                 f:\东大\opencv3.0\fisheye_calibrate_img\fisheye_calibrate_img\fisheye_calibrate_img.cpp(128) : 使用“i”的定义
+     1>f:\东大\opencv3.0\fisheye_calibrate_img\fisheye_calibrate_img\fisheye_calibrate_img.cpp(144): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 f:\东大\opencv3.0\fisheye_calibrate_img\fisheye_calibrate_img\fisheye_calibrate_img.cpp(137) : 忽略“i”的定义
+                 f:\东大\opencv3.0\fisheye_calibrate_img\fisheye_calibrate_img\fisheye_calibrate_img.cpp(128) : 使用“i”的定义
+     1>f:\东大\opencv3.0\fisheye_calibrate_img\fisheye_calibrate_img\fisheye_calibrate_img.cpp(145): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 f:\东大\opencv3.0\fisheye_calibrate_img\fisheye_calibrate_img\fisheye_calibrate_img.cpp(137) : 忽略“i”的定义
+                 f:\东大\opencv3.0\fisheye_calibrate_img\fisheye_calibrate_img\fisheye_calibrate_img.cpp(128) : 使用“i”的定义
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\东大\opencv3.0\fisheye_calibrate_img\Debug\fisheye_calibrate_img.exe" /INCREMENTAL /NOLOGO opencv_ts300d.lib opencv_world300d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\东大\opencv3.0\fisheye_calibrate_img\Debug\fisheye_calibrate_img.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\东大\opencv3.0\fisheye_calibrate_img\Debug\fisheye_calibrate_img.lib" /MACHINE:X86 Debug\fisheye_calibrate_img.obj
+         fisheye_calibrate_img.vcxproj -> F:\东大\opencv3.0\fisheye_calibrate_img\Debug\fisheye_calibrate_img.exe
+     1>已完成生成项目“F:\东大\opencv3.0\fisheye_calibrate_img\fisheye_calibrate_img\fisheye_calibrate_img.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.14
